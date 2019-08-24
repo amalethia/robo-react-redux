@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a58a5753bc04f1247dedce97635e87e",
+    "revision": "89719664e566d308e2fba959eee00d97",
     "url": "/robo-react-redux/index.html"
   },
   {
