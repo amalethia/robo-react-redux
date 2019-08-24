@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/robo-react-redux/static/css/main.12cb220d.chunk.css",
-    "main.js": "/robo-react-redux/static/js/main.25520a9c.chunk.js",
-    "main.js.map": "/robo-react-redux/static/js/main.25520a9c.chunk.js.map",
+    "main.css": "/robo-react-redux/static/css/main.bc072cbd.chunk.css",
+    "main.js": "/robo-react-redux/static/js/main.898c5186.chunk.js",
+    "main.js.map": "/robo-react-redux/static/js/main.898c5186.chunk.js.map",
     "runtime~main.js": "/robo-react-redux/static/js/runtime~main.beb6343e.js",
     "runtime~main.js.map": "/robo-react-redux/static/js/runtime~main.beb6343e.js.map",
     "static/css/2.31dafeb2.chunk.css": "/robo-react-redux/static/css/2.31dafeb2.chunk.css",
     "static/js/2.79e653cc.chunk.js": "/robo-react-redux/static/js/2.79e653cc.chunk.js",
     "static/js/2.79e653cc.chunk.js.map": "/robo-react-redux/static/js/2.79e653cc.chunk.js.map",
     "index.html": "/robo-react-redux/index.html",
-    "precache-manifest.7df1e5d1b8da2cbacefb1d8a7352106b.js": "/robo-react-redux/precache-manifest.7df1e5d1b8da2cbacefb1d8a7352106b.js",
+    "precache-manifest.765bfbb1555c7c4959a71e5a022fc37b.js": "/robo-react-redux/precache-manifest.765bfbb1555c7c4959a71e5a022fc37b.js",
     "service-worker.js": "/robo-react-redux/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/robo-react-redux/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.12cb220d.chunk.css.map": "/robo-react-redux/static/css/main.12cb220d.chunk.css.map",
+    "static/css/main.bc072cbd.chunk.css.map": "/robo-react-redux/static/css/main.bc072cbd.chunk.css.map",
     "static/media/App.css": "/robo-react-redux/static/media/SEGA.12a3db8b.woff"
   }
 }
